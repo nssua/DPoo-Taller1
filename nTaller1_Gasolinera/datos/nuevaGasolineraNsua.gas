@@ -1,0 +1,13 @@
+tipo:Gasolina premium:17000:120.0
+tipo:Gasolina corriente:9000:200.0
+tipo:Diesel:9000:120.0
+tipo:Diesel premium:17000:90.0
+surtidor:Juan:Gasolina premium:0.0:Gasolina corriente:0.0:Diesel:0.0:Diesel premium:0.0
+surtidor:Juan:Gasolina premium:0.0:Gasolina corriente:0.0:Diesel:0.0:Diesel premium:0.0
+surtidor:Daniel:Gasolina premium:0.0:Gasolina corriente:0.0:Diesel:0.0:Diesel premium:0.0
+surtidor:Juan:Gasolina premium:0.0:Gasolina corriente:0.0:Diesel:0.0:Diesel premium:0.0
+empleado:Marco:0
+empleado:Sofia:0
+empleado:Juan:0
+empleado:Daniel:0
+empleado:Miguel:0
